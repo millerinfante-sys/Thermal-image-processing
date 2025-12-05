@@ -1,0 +1,1 @@
+https://www.kaggle.com/datasets/python16/electric-motor-thermal-image-fault-diagnosis
